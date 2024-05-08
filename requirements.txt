@@ -1,0 +1,11 @@
+numpy<=1.16.4
+scipy
+pandas
+matplotlib
+pytorch==1.3.*
+torchvision==0.4.*
+cuda100
+scikit-image
+scikit-learn
+tqdm>=4.36
+onnxruntime
